@@ -18,3 +18,4 @@
 
 # ルートユーザーを MFA で保護
 
+![スクリーンショット 2023-10-24 151456](https://github.com/Hidetaka-Konishi/Raise_kadai_1/assets/142459457/8deac741-6c67-4122-ad5c-cbc339f0e74d)
